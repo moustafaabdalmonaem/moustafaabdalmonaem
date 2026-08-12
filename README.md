@@ -48,6 +48,7 @@ Available for freelance automation projects — if you have a repetitive manual 
 | 📅 [Appointment Booking System](https://github.com/moustafaabdalmonaem/n8n-google-calendar-appointment-booking) | n8n workflow that checks Google Calendar for conflicts and auto-confirms/rejects bookings via email |
 | 💬 [Telegram AI Auto-Reply Bot](https://github.com/moustafaabdalmonaem/telegram-ai-auto-reply-bot-n8n) | n8n + Claude AI bot that auto-replies to Telegram messages as a 24/7 customer support assistant |
 | 🧑‍💼 [Simple CRM – Customer Onboarding](https://github.com/moustafaabdalmonaem/simple-crm-n8n-onboarding) | n8n workflow automating lead capture, Google Sheets logging, welcome emails, and sales follow-up reminders |
+| 📋 [Weekly User Report Bot](https://github.com/moustafaabdalmonaem/weekly-user-report-bot) | n8n workflow that fetches user data weekly, cleans and formats it, and delivers an automated summary report to Telegram on a schedule |
 
 **RPA (UiPath)**
 
@@ -62,4 +63,3 @@ Available for freelance automation projects — if you have a repetitive manual 
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moustafa-mohamed-84a245347)
-
