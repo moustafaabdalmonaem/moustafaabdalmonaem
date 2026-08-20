@@ -38,6 +38,7 @@ Available for freelance automation projects — if you have a repetitive manual 
 
 | Project | Description |
 |---|---|
+| 📊 [AI-Powered Monthly Sales RAG Pipeline](https://github.com/moustafaabdalmonaem/ai-sales-rag-pipeline) | Graduation project — n8n workflow combining document automation and RAG: ingests monthly sales PDF reports, embeds them with Google Gemini into a Supabase vector store, and answers staff questions through a grounded AI chat agent |
 | 🧾 [Invoice Automation Pipeline](https://github.com/moustafaabdalmonaem/invoice-automation-pipeline) | AI-powered n8n workflow (Grok/xAI) that extracts invoice data from Google Drive PDFs, logs it to Sheets, and alerts the billing team on Telegram |
 | ❄️ [Cold Chain Fault Response](https://github.com/moustafaabdalmonaem/cold-chain-fault-response) | Autonomous IoT fault detection, auto-remediation, and technician escalation via n8n |
 | 📈 [Crypto Price Telegram Alert](https://github.com/moustafaabdalmonaem/-crypto-price-telegram-alert) | n8n workflow monitoring BTC price with real-time Telegram alerts |
@@ -54,6 +55,7 @@ Available for freelance automation projects — if you have a repetitive manual 
 
 | Project | Description |
 |---|---|
+| 📁 [Generate Yearly Report for Vendor](https://github.com/moustafaabdalmonaem/generate-yearly-vendor-report) | UiPath RPA bot that reads vendor work items, retrieves Tax IDs, and merges monthly reports into a consolidated yearly Excel report |
 | 📊 [Excel Automation – Academic Results](https://github.com/moustafaabdalmonaem/Excel-Automation-Email-Automation) | RPA solution automating student grading, classification, and report generation |
 | 🔲 [QR Code Generator (UiPath RPA)](https://github.com/moustafaabdalmonaem/QR-Code-Generator-Automation-UiPath-RPA-) | End-to-end UiPath bot for automated QR code generation from contact data |
 | 🤖 [RPA Challenge Form Automation Bot](https://github.com/moustafaabdalmonaem/RPA-Challenge-Form-Automation-Bot) | UiPath automation solving the industry-standard "RPA Challenge" benchmark test |
