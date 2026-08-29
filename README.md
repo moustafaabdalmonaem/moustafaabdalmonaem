@@ -70,8 +70,8 @@ Available for freelance automation projects — if you have a repetitive manual 
 | AI Automation Diploma — Top Achiever | Route | August 25, 2026 |
 
 <p align="center">
-  <img src="./assets/n8n-certificate.png" width="400" alt="n8n Academy Certificate"/>
-  <img src="./assets/route-ai-diploma.jpg" width="400" alt="Route AI Automation Diploma"/>
+  <img width="1169" height="813" alt="n8n Academy Certificate" src="https://github.com/user-attachments/assets/f0082834-22bb-43b2-8991-29d03ceea4ab" />
+<img width="1280" height="902" alt="Route AI Automation Diploma" src="https://github.com/user-attachments/assets/88ca5645-edff-43d0-9185-72b1cb7f486a" />
 </p>
 
 ---
