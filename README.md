@@ -62,6 +62,20 @@ Available for freelance automation projects — if you have a repetitive manual 
 
 ---
 
+### 🏆 Certifications
+
+| Certificate | Issuing Organization | Date |
+|---|---|---|
+| In Practice: AI, Testing & Best Practices | n8n Academy | August 29, 2026 |
+| AI Automation Diploma — Top Achiever | Route | August 25, 2026 |
+
+<p align="center">
+  <img src="./assets/n8n-certificate.png" width="400" alt="n8n Academy Certificate"/>
+  <img src="./assets/route-ai-diploma.jpg" width="400" alt="Route AI Automation Diploma"/>
+</p>
+
+---
+
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moustafa-mohamed-84a245347)
