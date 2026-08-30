@@ -53,6 +53,7 @@ Available for freelance automation projects — if you have a repetitive manual 
 | 💬 [AI Feedback Classification & Reply Pipeline](https://github.com/moustafaabdalmonaem/ai-feedback-classification-reply-pipeline) | n8n workflow that classifies customer feedback with AI (sentiment, topic, urgency) and auto-generates a professional reply |
 | 📧 [Lead Magnet Nurture Sequence](https://github.com/moustafaabdalmonaem/lead-magnet-nurture-sequence-n8n) | n8n workflow that automatically sends a personalized 3-email nurture sequence (welcome, tips, offer) to new leads using AI-generated content and timed delays |
 | ✍️ [LinkedIn Content Generator](https://github.com/moustafaabdalmonaem/linkedin-content-generator-n8n) | n8n workflow that turns a single topic into 3 ready-to-post LinkedIn post variations (educational, personal story, opinion) plus hashtags, using AI |
+| 🕵️ [Competitor Monitoring – Weekly Email Report](https://github.com/moustafaabdalmonaem/competitor-monitoring-weekly-email-report-n8n) | n8n workflow that scans competitor websites weekly, summarizes positioning changes with AI (Groq), and emails a concise competitive-intelligence report |
 
 **RPA (UiPath)**
 
