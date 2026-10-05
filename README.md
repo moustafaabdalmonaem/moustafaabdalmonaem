@@ -84,7 +84,7 @@ Available for freelance automation projects — if you have a repetitive manual 
 | AI Automation Diploma — Top Achiever | Route | August 25, 2026 | — |
 
 <p align="center">
-  [IBMDesign20261005-20-n2zqpa.pdf](https://github.com/user-attachments/files/33079760/IBMDesign20261005-20-n2zqpa.pdf)
+  <img width="1021" height="753" alt="Screenshot (1019)" src="https://github.com/user-attachments/assets/307225eb-3704-4527-a859-d138b1df6edb" />
   <img width="1169" height="813" alt="n8n Academy Certificate" src="https://github.com/user-attachments/assets/f0082834-22bb-43b2-8991-29d03ceea4ab" />
 <img width="1280" height="902" alt="Route AI Automation Diploma" src="https://github.com/user-attachments/assets/88ca5645-edff-43d0-9185-72b1cb7f486a" />
 </p>
