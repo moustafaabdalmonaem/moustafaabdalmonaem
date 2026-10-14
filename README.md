@@ -40,4 +40,61 @@ Available for freelance automation projects — if you have a repetitive manual 
 |---|---|
 | 📊 [AI-Powered Monthly Sales RAG Pipeline](https://github.com/moustafaabdalmonaem/ai-sales-rag-pipeline) | Graduation project — n8n workflow combining document automation and RAG: ingests monthly sales PDF reports, embeds them with Google Gemini into a Supabase vector store, and answers staff questions through a grounded AI chat agent |
 | 🧾 [Invoice Automation Pipeline](https://github.com/moustafaabdalmonaem/invoice-automation-pipeline) | AI-powered n8n workflow (Grok/xAI) that extracts invoice data from Google Drive PDFs, logs it to Sheets, and alerts the billing team on Telegram |
-| ❄️ [Cold
+| ❄️ [Cold Chain Fault Response](https://github.com/moustafaabdalmonaem/cold-chain-fault-response) | Autonomous IoT fault detection, auto-remediation, and technician escalation via n8n |
+| 📈 [Crypto Price Telegram Alert](https://github.com/moustafaabdalmonaem/-crypto-price-telegram-alert) | n8n workflow monitoring BTC price with real-time Telegram alerts |
+| 🎓 [German Homework Grading Bot](https://github.com/moustafaabdalmonaem/german-homework-grading-bot-n8n) | n8n + Claude AI workflow that auto-grades student homework via Telegram with bilingual (German/Arabic) feedback |
+| ⚖️ [Legal Case Management Automation](https://github.com/moustafaabdalmonaem/legal-case-management-automation-n8n) | n8n workflow for court hearing reminders and AI-powered (GPT-4o) photo-to-sheet case intake |
+| 📞 [AI Customer Support – Chat & Voice](https://github.com/moustafaabdalmonaem/ai-customer-support-chat-voice-n8n) | Unified n8n workflow handling customer support across Telegram chat and Twilio voice calls (GPT-4o) |
+| 📊 [Twitter Brand Sentiment Monitor](https://github.com/moustafaabdalmonaem/twitter-brand-sentiment-monitor-n8n) | n8n + Claude AI workflow tracking brand mentions on Twitter/X with sentiment analysis & weekly reports |
+| 📅 [Appointment Booking System](https://github.com/moustafaabdalmonaem/n8n-google-calendar-appointment-booking) | n8n workflow that checks Google Calendar for conflicts and auto-confirms/rejects bookings via email |
+| 💬 [Telegram AI Auto-Reply Bot](https://github.com/moustafaabdalmonaem/telegram-ai-auto-reply-bot-n8n) | n8n + Claude AI bot that auto-replies to Telegram messages as a 24/7 customer support assistant |
+| 🧑‍💼 [Simple CRM – Customer Onboarding](https://github.com/moustafaabdalmonaem/simple-crm-n8n-onboarding) | n8n workflow automating lead capture, Google Sheets logging, welcome emails, and sales follow-up reminders |
+| 📋 [Weekly User Report Bot](https://github.com/moustafaabdalmonaem/weekly-user-report-bot) | n8n workflow that fetches user data weekly, cleans and formats it, and delivers an automated summary report to Telegram on a schedule |
+| 💬 [AI Feedback Classification & Reply Pipeline](https://github.com/moustafaabdalmonaem/ai-feedback-classification-reply-pipeline) | n8n workflow that classifies customer feedback with AI (sentiment, topic, urgency) and auto-generates a professional reply |
+| 📧 [Lead Magnet Nurture Sequence](https://github.com/moustafaabdalmonaem/lead-magnet-nurture-sequence-n8n) | n8n workflow that automatically sends a personalized 3-email nurture sequence (welcome, tips, offer) to new leads using AI-generated content and timed delays |
+| ✍️ [LinkedIn Content Generator](https://github.com/moustafaabdalmonaem/linkedin-content-generator-n8n) | n8n workflow that turns a single topic into 3 ready-to-post LinkedIn post variations (educational, personal story, opinion) plus hashtags, using AI |
+| 🕵️ [Competitor Monitoring – Weekly Email Report](https://github.com/moustafaabdalmonaem/competitor-monitoring-weekly-email-report-n8n) | n8n workflow that scans competitor websites weekly, summarizes positioning changes with AI (Groq), and emails a concise competitive-intelligence report |
+| 🏠 [Real Estate Lead Qualifier](https://github.com/moustafaabdalmonaem/real-estate-lead-qualifier-n8n) | n8n workflow that qualifies incoming real estate leads via AI (Hot/Cold) and instantly notifies the sales team on Telegram when a hot lead comes in |
+| 📝 [Meeting Notes to Action Items](https://github.com/moustafaabdalmonaem/meeting-notes-to-action-items-n8n) | n8n workflow that turns raw meeting notes into a structured summary, action items, and key decisions using AI, delivered instantly to Telegram |
+| 🧑‍💻 [HR Resume Screener](https://github.com/moustafaabdalmonaem/hr-resume-screener-n8n) | n8n workflow that automatically screens candidate CVs against job requirements using AI (Groq), and sends a personalized acceptance or rejection email based on the match score |
+| 🛒 [Abandoned Cart Recovery](https://github.com/moustafaabdalmonaem/abandoned-cart-recovery-n8n) | n8n workflow that recovers abandoned shopping carts by generating a personalized discount email via AI (Groq), sending it via Gmail, and notifying the marketing team on Slack |
+| 🏥 [Smart Patient Triage & Booking](https://github.com/moustafaabdalmonaem/smart-patient-triage-booking-n8n) | n8n workflow that triages patient complaints via AI (Groq), instantly alerting the on-call doctor for emergencies or automatically booking a normal appointment on Google Calendar |
+| 🍽️ [Order & Table Parser](https://github.com/moustafaabdalmonaem/order-table-parser-n8n) | n8n workflow that reads free-text customer messages via AI (Groq), classifies them as food orders or table reservations, and routes notifications to the kitchen or reception team on Telegram |
+| 📚 [Quiz & Summary Generator](https://github.com/moustafaabdalmonaem/quiz-summary-generator-n8n) | n8n workflow that turns any lesson text into a summary and multiple-choice quiz using AI (Groq), then distributes it to students via Telegram, email, and Google Sheets |
+| 💰 [Expense Extractor & Ledger](https://github.com/moustafaabdalmonaem/expense-extractor-ledger-n8n) | n8n workflow that reads free-text invoices or expense statements using AI (Groq), extracts structured expense data, and automatically logs each entry into a Google Sheets ledger |
+| 🎬 [PDF to Video Auto-Publisher](https://github.com/moustafaabdalmonaem/pdf-to-video-auto-publisher-n8n) | n8n workflow that turns any PDF into a short vertical video with AI-generated script and Arabic voiceover — sent via Telegram, rendered with FFmpeg and Pexels stock footage |
+
+**RPA (UiPath)**
+
+| Project | Description |
+|---|---|
+| 📁 [Generate Yearly Report for Vendor](https://github.com/moustafaabdalmonaem/generate-yearly-vendor-report) | UiPath RPA bot that reads vendor work items, retrieves Tax IDs, and merges monthly reports into a consolidated yearly Excel report |
+| 📊 [Excel Automation – Academic Results](https://github.com/moustafaabdalmonaem/Excel-Automation-Email-Automation) | RPA solution automating student grading, classification, and report generation |
+| 🔲 [QR Code Generator (UiPath RPA)](https://github.com/moustafaabdalmonaem/QR-Code-Generator-Automation-UiPath-RPA-) | End-to-end UiPath bot for automated QR code generation from contact data |
+| 🤖 [RPA Challenge Form Automation Bot](https://github.com/moustafaabdalmonaem/RPA-Challenge-Form-Automation-Bot) | UiPath automation solving the industry-standard "RPA Challenge" benchmark test |
+
+---
+
+### 🏆 Certifications
+
+| Certificate | Issuing Organization | Date | Verify |
+|---|---|---|---|
+| Data Analytics Essentials | Cisco Networking Academy | October 10, 2026 | [Credly](https://www.credly.com/badges/19d7fc0b-7594-4168-ace8-867c4abde89c/public_url) |
+| Data Fundamentals | IBM SkillsBuild | October 10, 2026 | [Credly](https://www.credly.com/badges/94b68511-898e-45e7-bfaa-0d72ad7ecd82) |
+| Artificial Intelligence Fundamentals | IBM SkillsBuild | October 5, 2026 | [Credly](https://www.credly.com/badges/6167a206-66b9-4499-9328-12da082dc233) |
+| In Practice: AI, Testing & Best Practices | n8n Academy | August 29, 2026 | — |
+| AI Automation Diploma — Top Achiever | Route | August 25, 2026 | — |
+
+<p align="center">
+  <img width="994" height="723" alt="Screenshot (1020)" src="https://github.com/user-attachments/assets/f7840c0b-f5ab-40ad-a8ab-3aca5bd99983" />
+  <img width="1069" height="798" alt="Screenshot (1021)" src="https://github.com/user-attachments/assets/c7d9fb24-cba9-45b3-9b92-2915c48f043a" />
+  <img width="1021" height="753" alt="Screenshot (1019)" src="https://github.com/user-attachments/assets/307225eb-3704-4527-a859-d138b1df6edb" />
+  <img width="1169" height="813" alt="n8n Academy Certificate" src="https://github.com/user-attachments/assets/f0082834-22bb-43b2-8991-29d03ceea4ab" />
+<img width="1280" height="902" alt="Route AI Automation Diploma" src="https://github.com/user-attachments/assets/88ca5645-edff-43d0-9185-72b1cb7f486a" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moustafa-mohamed-84a245347)
