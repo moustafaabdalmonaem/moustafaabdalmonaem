@@ -89,16 +89,39 @@ Available for freelance automation projects — if you have a repetitive manual 
 | In Practice: AI, Testing & Best Practices | n8n Academy | August 29, 2026 |
 | AI Automation Diploma — Top Achiever | Route | August 25, 2026 |
 
-<p align="center">
-  <img width="994" height="723" alt="Screenshot (1020)" src="https://github.com/user-attachments/assets/f7840c0b-f5ab-40ad-a8ab-3aca5bd99983" />
-  <img width="443" height="330" alt="{83C9775B-9286-4771-A548-D78B22FF2721}" src="https://github.com/user-attachments/assets/9220731c-970a-4fd9-88fa-016e332742d5" />
-  <img width="442" height="330" alt="{772366E4-5AD3-4A49-B915-50F9CD76BFB7}" src="https://github.com/user-attachments/assets/c298f75b-70f9-4664-8686-7e3cbad44b72" />
-  <img width="445" height="339" alt="{9EC1863B-64B0-4723-98A2-49CAE1CA1825}" src="https://github.com/user-attachments/assets/0517f42f-6875-4e64-92b4-08d045730e50" />
-  <img width="1069" height="798" alt="Screenshot (1021)" src="https://github.com/user-attachments/assets/c7d9fb24-cba9-45b3-9b92-2915c48f043a" />
-  <img width="1021" height="753" alt="Screenshot (1019)" src="https://github.com/user-attachments/assets/307225eb-3704-4527-a859-d138b1df6edb" />
-  <img width="1169" height="813" alt="n8n Academy Certificate" src="https://github.com/user-attachments/assets/f0082834-22bb-43b2-8991-29d03ceea4ab" />
-  <img width="1280" height="902" alt="Route AI Automation Diploma" src="https://github.com/user-attachments/assets/88ca5645-edff-43d0-9185-72b1cb7f486a" />
-</p>
+<div align="center">
+
+<img alt="Screenshot (1020)" src="https://github.com/user-attachments/assets/f7840c0b-f5ab-40ad-a8ab-3aca5bd99983" width="850" />
+
+<br><br>
+
+<img alt="AWS Certificate 1" src="https://github.com/user-attachments/assets/9220731c-970a-4fd9-88fa-016e332742d5" width="850" />
+
+<br><br>
+
+<img alt="IBM Cybersecurity Fundamentals" src="https://github.com/user-attachments/assets/c298f75b-70f9-4664-8686-7e3cbad44b72" width="850" />
+
+<br><br>
+
+<img alt="AWS Certificate 2" src="https://github.com/user-attachments/assets/0517f42f-6875-4e64-92b4-08d045730e50" width="850" />
+
+<br><br>
+
+<img alt="Screenshot (1021)" src="https://github.com/user-attachments/assets/c7d9fb24-cba9-45b3-9b92-2915c48f043a" width="850" />
+
+<br><br>
+
+<img alt="Screenshot (1019)" src="https://github.com/user-attachments/assets/307225eb-3704-4527-a859-d138b1df6edb" width="850" />
+
+<br><br>
+
+<img alt="n8n Academy Certificate" src="https://github.com/user-attachments/assets/f0082834-22bb-43b2-8991-29d03ceea4ab" width="850" />
+
+<br><br>
+
+<img alt="Route AI Automation Diploma" src="https://github.com/user-attachments/assets/88ca5645-edff-43d0-9185-72b1cb7f486a" width="850" />
+
+</div>
 
 ### 📫 Let's Connect
 
