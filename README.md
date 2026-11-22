@@ -77,17 +77,17 @@ Available for freelance automation projects — if you have a repetitive manual 
 
 ### 🏆 Certifications
 
-| Certificate | Issuing Organization | Date | Verify |
-|---|---|---|---|
-| AWS Cloud Practitioner Essentials | AWS Training & Certification | October 2026 | [Verify]() |
-| AI Agents: Cognitive Upgrade and Business Efficiency | AWS Training | October 2026 | [Verify]() |
-| Cybersecurity Fundamentals | IBM SkillsBuild | October 2026 | [Credly]() |
-| Data Analytics Essentials | Cisco Networking Academy | October 10, 2026 | [Credly](https://www.credly.com/badges/19d7fc0b-7594-4168-ace8-867c4abde89c/public_url) |
-| Data Fundamentals | IBM SkillsBuild | October 10, 2026 | [Credly](https://www.credly.com/badges/94b68511-898e-45e7-bfaa-0d72ad7ecd82) |
-| Artificial Intelligence Fundamentals | IBM SkillsBuild | October 5, 2026 | [Credly](https://www.credly.com/badges/6167a206-66b9-4499-9328-12da082dc233) |
-| Automation Developer Professional Training (v2024.10) | UiPath Academy | — | [Verify]() |
-| In Practice: AI, Testing & Best Practices | n8n Academy | August 29, 2026 | — |
-| AI Automation Diploma — Top Achiever | Route | August 25, 2026 | — |
+| Certificate | Issuing Organization | Date |
+|---|---|---|
+| AWS Cloud Practitioner Essentials | AWS Training & Certification | October 2026 |
+| AI Agents: Cognitive Upgrade and Business Efficiency | AWS Training | October 2026 |
+| Cybersecurity Fundamentals | IBM SkillsBuild | October 2026 |
+| Data Analytics Essentials | Cisco Networking Academy | October 10, 2026 |
+| Data Fundamentals | IBM SkillsBuild | October 10, 2026 |
+| Artificial Intelligence Fundamentals | IBM SkillsBuild | October 5, 2026 |
+| Automation Developer Professional Training (v2024.10) | UiPath Academy | — |
+| In Practice: AI, Testing & Best Practices | n8n Academy | August 29, 2026 |
+| AI Automation Diploma — Top Achiever | Route | August 25, 2026 |
 
 <p align="center">
   <img width="994" height="723" alt="Screenshot (1020)" src="https://github.com/user-attachments/assets/f7840c0b-f5ab-40ad-a8ab-3aca5bd99983" />
@@ -96,7 +96,6 @@ Available for freelance automation projects — if you have a repetitive manual 
   <img width="1169" height="813" alt="n8n Academy Certificate" src="https://github.com/user-attachments/assets/f0082834-22bb-43b2-8991-29d03ceea4ab" />
   <img width="1280" height="902" alt="Route AI Automation Diploma" src="https://github.com/user-attachments/assets/88ca5645-edff-43d0-9185-72b1cb7f486a" />
 </p>
----
 
 ### 📫 Let's Connect
 
